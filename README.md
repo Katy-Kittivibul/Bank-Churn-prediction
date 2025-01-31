@@ -52,8 +52,8 @@ This study also perform a Linear Regression model to compare the regression mode
 How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/churn-prediction.git
-cd churn-prediction
+git clone https://github.com/yourusername/Bank-Churn-prediction.git
+cd Bank-Churn-prediction
 ```
 2. Place your dataset in the data directory.
 3. Run the Jupyter notebook or Python scripts to train the models and evaluate performance:
